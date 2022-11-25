@@ -105,7 +105,7 @@ void cadastrar(){
     fgets(datadenascimento, sizeof (datadenascimento), stdin);
     printf ("Informe o Ano m que estamos: "); scanf("%d%", &anoatual);
     fgets(anoatual, sizeof (anoatual), stdin);
-        printf ("\n 6 - SAIR\n");
+        printf ("\n 4 - SAIR\n");
         scanf("%d", &op);
         break;
     }while(op!=0);
@@ -118,3 +118,4 @@ void consultar(){
 }
 void sair (){
 }
+ 
