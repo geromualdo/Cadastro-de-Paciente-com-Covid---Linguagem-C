@@ -1,5 +1,5 @@
 # Cadastro-de-Paciente-com-Covid---Linguagem-C
-Projeto Integrador Multidisciplinar da faculdade de ADS .
 
-O projeto se trata de um sistema de cadastramento de pacientes com covid, onde também verifica a idade do paciente e se o mesmo  possuir 65 ano ou mais o programa informa que o paciente faz parte do grupo de risco.
+O projeto é referente a um sistema de cadastro de pacientes com covid, onde se verifica a idade  e se o mesmo possuir entre 65 anos ou mais o programa automaticamente  informa que o paciente faz parte do grupo de risco e que seus dados devem ser encaminhados aos orgãos responsaveis de saúde que  faram o acompanhamento  e evolução dos casos de covid.
 
+Projeto realizado para composição de nota na Universidade.
